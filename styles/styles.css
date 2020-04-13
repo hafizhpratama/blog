@@ -36,6 +36,12 @@ body {
     font-weight: bold;
 }
 
+h1 {
+    font-family: 'Merriweather',
+        serif;
+    font-weight: bold;
+}
+
 h3 {
     font-family: 'Merriweather',
         serif;
