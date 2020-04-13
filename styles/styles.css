@@ -36,6 +36,17 @@ body {
     font-weight: bold;
 }
 
+h3 {
+    font-family: 'Merriweather',
+        serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Open Sans',
+        sans-serif;
+}
+
 .font-body {
     font-family: 'Open Sans',
         sans-serif;
